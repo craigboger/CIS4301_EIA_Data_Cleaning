@@ -1,0 +1,1 @@
+https://dev.socrata.com/blog/2016/02/01/pandas-and-jupyter-notebook.html
